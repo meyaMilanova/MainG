@@ -5,8 +5,8 @@ import { TiledResource } from '@excaliburjs/plugin-tiled'
 const Resources = {
     IntroOneBackground: new ImageSource('img/IntroBG1.png'),
     IntroTwoBackground: new ImageSource('img/IntroBG2.png'),
-    IntroThreeBackground: new ImageSource('img/IntroBG3.png'),
-    IntroFourBackground: new ImageSource('img/IntroBG4.png'),
+    IntroThreeBackground: new ImageSource('img/introBG3.png'),
+    IntroFourBackground: new ImageSource('img/introBG4.png'),
 
     MapOne: new TiledResource('maps/Floor1.0.tmx'),
     MapTwo: new TiledResource('maps/Floor2.1.tmx'),
